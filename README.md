@@ -218,12 +218,12 @@ It is helping people and organizations make better decisions.
 
 📧 Email
 
-🚨 your@email.com
+🚨 camiloandres2466@hotmail.com
 
 💼 LinkedIn
 
-🚨 https://linkedin.com/in/yourprofile
+🚨 www.linkedin.com/in/camilo-andrés-ruiz-moncada-97a5b4372
 
 🌎 Portfolio
 
-🚨 https://yourportfolio.com
+🚨 https://github.com/camilo7100
