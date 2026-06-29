@@ -28,7 +28,6 @@
 
 ---
 
-```markdown
 # About Me
 
 I am a Mechanical Engineer and Physicist from Universidad de los Andes, currently pursuing an MSc in Data Analytics.
@@ -38,7 +37,6 @@ My passion lies in transforming complex business challenges into intelligent, sc
 I design end-to-end analytical platforms that integrate Artificial Intelligence, Machine Learning, Forecasting, Mathematical Optimization, Data Engineering and Business Intelligence to support strategic decision-making across finance, supply chain, pricing, logistics and commercial operations.
 
 My objective is not only to build predictive models, but to develop intelligent systems that automate decision-making, optimize business processes and generate measurable business value through data.
-```
 
 
 ---
