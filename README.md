@@ -6,10 +6,6 @@
 
 ### Building Intelligent Systems that Transform Data into Business Decisions
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2f18314e-28cf-47f8-b865-706f877e2994" width="700" alt="Camilo Ruiz Banner">
-</p>
-
 <br>
 
 <a href="https://www.linkedin.com/in/camilo-andr%C3%A9s-ruiz-moncada-97a5b4372" target="_blank">
@@ -51,7 +47,7 @@ My objective is not only to build predictive models, but to develop intelligent 
 | Inventory Reduction | **COP $4B+** |
 | Financial Debt Reduction | **COP $4B+** |
 | Gross Margin | **23% → 26%** |
-| Inventory Rotation | **100 → 66 Days** |
+| Inventory Days | **100 → 66 Days** |
 
 ---
 
@@ -59,21 +55,26 @@ My objective is not only to build predictive models, but to develop intelligent 
 
 - Artificial Intelligence
 - Machine Learning
-- Forecasting
+- Forecasting & Demand Planning
 - Data Science
-- Data Engineering
 - Analytics Engineering
-- Mathematical Optimization
+- Data Engineering
 - Business Intelligence
+- Mathematical Optimization
+- Decision Intelligence
+- Supply Chain Analytics
+- Pricing Analytics
+- Financial Analytics
 - Python Development
 - SQL Development
 - Decision Support Systems
+
 
 ---
 
 # Tech Stack
 
-## Languages
+## Programming Languages
 
 - Python
 - SQL
@@ -81,7 +82,19 @@ My objective is not only to build predictive models, but to develop intelligent 
 - Java
 - VBA
 
-## AI & Machine Learning
+## Artificial Intelligence
+
+- GPT
+- Claude
+- Gemini
+- LangChain
+- LangGraph
+- OpenAI API
+- Anthropic API
+- Ollama
+- Hugging Face
+
+## Machine Learning
 
 - Scikit-Learn
 - TensorFlow
@@ -90,20 +103,18 @@ My objective is not only to build predictive models, but to develop intelligent 
 - LightGBM
 - CatBoost
 - Prophet
-- GPT
-- Claude
-- Gemini
+- Statsmodels
 
 ## Data Engineering
 
-- ETL
-- ELT
+- ETL / ELT
 - Data Warehouse
+- Data Lake
 - SQL Server
 - PostgreSQL
 - FastAPI
 
-## BI
+## Business Intelligence
 
 - Power BI
 - DAX
@@ -114,8 +125,10 @@ My objective is not only to build predictive models, but to develop intelligent 
 
 - OR-Tools
 - PuLP
-- Monte Carlo
+- Monte Carlo Simulation
 - scipy.optimize
+- Linear Programming
+- Integer Programming
 
 ---
 
@@ -123,7 +136,7 @@ My objective is not only to build predictive models, but to develop intelligent 
 
 ## Career Intelligence Platform
 
-🚧 In Development
+🚀 Coming Soon
 
 AI platform that transforms professional knowledge into personalized resumes, cover letters and career documents using Large Language Models.
 
@@ -131,7 +144,7 @@ AI platform that transforms professional knowledge into personalized resumes, co
 
 ## Forecast Engine
 
-🚧 In Development
+🚀 Coming Soon
 
 Enterprise forecasting framework capable of evaluating multiple predictive models automatically using time-series cross validation.
 
@@ -139,7 +152,7 @@ Enterprise forecasting framework capable of evaluating multiple predictive model
 
 ## Pricing Intelligence
 
-🚧 In Development
+🚀 Coming Soon
 
 Decision-support system for pricing optimization and profitability analysis.
 
@@ -147,7 +160,7 @@ Decision-support system for pricing optimization and profitability analysis.
 
 ## Enterprise ETL Framework
 
-🚧 In Development
+🚀 Coming Soon
 
 Reusable ETL architecture designed for SAP Business One and enterprise analytics.
 
@@ -155,78 +168,83 @@ Reusable ETL architecture designed for SAP Business One and enterprise analytics
 
 ## Inventory Intelligence
 
-🚧 In Development
+🚀 Coming Soon
 
 Inventory optimization, purchasing planning and working capital analytics.
 
 ---
 
-# Current Interests
-
-Currently exploring:
+# Current Research & Development
 
 - Agentic AI
-- LLM Applications
-- Retrieval Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Enterprise AI Applications
 - Time Series Forecasting
-- Optimization
+- Mathematical Optimization
 - Analytics Engineering
 - Decision Intelligence
-- Enterprise AI
+- AI-powered Business Solutions
 
 ---
 
 # Education
 
-🎓 Mechanical Engineering
+🎓 **Master of Science (MSc) in Data Analytics** *(Current)*
 
 Universidad de los Andes
+
+GPA: **4.8 / 5.0**
 
 ---
 
-🎓 Physics
+🎓 **Mechanical Engineering**
 
 Universidad de los Andes
+
+GPA: **4.2 / 5.0**
 
 ---
 
-🎓 MSc Data Analytics *(Current)*
+🎓 **Physics**
 
 Universidad de los Andes
+
+GPA: **4.2 / 5.0**
 
 ---
 
 # Philosophy
 
-> "Technology creates value only when it improves decision-making."
+> "The value of Artificial Intelligence is not measured by the sophistication of the model, but by the quality of the decisions it enables."
 
-I believe the real purpose of Data Science is not building models.
+I believe technology creates value only when it helps people and organizations make better decisions.
 
-It is helping people and organizations make better decisions.
+For me, Artificial Intelligence, Data Science and Analytics are not the final objective—they are the tools that transform data into measurable business impact.
 
 ---
 
 # GitHub Goals
 
-- Build production-quality AI projects.
+- Build production-quality AI applications.
 - Publish reusable forecasting frameworks.
-- Share enterprise analytics architectures.
-- Develop open-source decision intelligence tools.
-- Contribute to the Data Science community.
+- Develop enterprise-grade ETL architectures.
+- Share optimization and analytics solutions.
+- Build reusable open-source AI frameworks.
 - Document real-world business applications.
+
 
 ---
 
 # Let's Connect
 
-📧 Email
+📧 **Email**
 
-🚨 camiloandres2466@hotmail.com
+camiloandres2466@hotmail.com
 
-💼 LinkedIn
+💼 **LinkedIn**
 
-🚨 www.linkedin.com/in/camilo-andrés-ruiz-moncada-97a5b4372
+https://www.linkedin.com/in/camilo-andr%C3%A9s-ruiz-moncada-97a5b4372
 
-🌎 Portfolio
+💻 **GitHub**
 
-🚨 https://github.com/camilo7100
+https://github.com/camilo7100
