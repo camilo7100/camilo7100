@@ -2,9 +2,9 @@
 
 # Camilo Ruiz
 
-### Analytics & AI Engineer
+### AI • Data Science • Analytics Engineering
 
-### Turning Data into Strategic Business Decisions
+### Building Intelligent Systems that Transform Data into Business Decisions
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2f18314e-28cf-47f8-b865-706f877e2994" width="700" alt="Camilo Ruiz Banner">
@@ -28,15 +28,18 @@
 
 ---
 
+```markdown
 # About Me
 
 I am a Mechanical Engineer and Physicist from Universidad de los Andes, currently pursuing an MSc in Data Analytics.
 
-My work focuses on designing intelligent systems that transform business data into strategic decisions.
+My passion lies in transforming complex business challenges into intelligent, scalable and measurable analytical solutions.
 
-I combine mathematics, statistics, optimization, machine learning, artificial intelligence and software engineering to solve complex business problems across finance, supply chain, logistics, pricing, forecasting and business intelligence.
+I design end-to-end analytical platforms that integrate Artificial Intelligence, Machine Learning, Forecasting, Mathematical Optimization, Data Engineering and Business Intelligence to support strategic decision-making across finance, supply chain, pricing, logistics and commercial operations.
 
-Rather than building isolated models, I enjoy developing complete analytical platforms that automate decision-making and generate measurable business impact.
+My objective is not only to build predictive models, but to develop intelligent systems that automate decision-making, optimize business processes and generate measurable business value through data.
+```
+
 
 ---
 
