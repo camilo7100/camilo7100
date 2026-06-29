@@ -6,7 +6,7 @@
 
 ### Turning Data into Strategic Business Decisions
 
-<img src="🚨PUT_YOUR_BANNER_HERE" width="100%">
+<img width="2896" height="4096" alt="WhatsApp Image 2024-03-19 at 6 14 01 PM" src="https://github.com/user-attachments/assets/2f18314e-28cf-47f8-b865-706f877e2994" />
 
 <br>
 
