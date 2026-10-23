@@ -134,43 +134,17 @@ My objective is not only to build predictive models, but to develop intelligent 
 
 # Featured Projects
 
-## Career Intelligence Platform
+### 💍 [VentaBot](https://github.com/camilo7100/ventabot-showcase) — WhatsApp sales agent where the LLM reads and Python decides
+Hexagonal architecture enforced with `import-linter`, a 14-state order machine, output guards that stop the model from inventing prices or confirming payments, model fallback, idempotent webhooks, **2,778 tests**, 30 architecture decision records. *Python · FastAPI · LangGraph · Pydantic · Claude/OpenAI · Docker*
 
-🚀 Coming Soon
+### 🧭 [PERSONAL_OS](https://github.com/camilo7100/personal-os) — a local-first personal operating system
+Tasks, calendar, finance (statement parsers, rule-based categories, transfer reconciliation), mail triage, study plans, Telegram alerts, encrypted backups and an AES-GCM encrypted read-only copy of the dashboard. Deterministic rules first, AI only where it earns its place. *Python · FastAPI · SQLite · Playwright*
 
-AI platform that transforms professional knowledge into personalized resumes, cover letters and career documents using Large Language Models.
+### 📊 [Salary data dashboard](https://github.com/camilo7100/Dashboard-visualizaci-n-y-documentaci-n-para-narrar-a-un-equipo-de-trabajo) — cleaning, modelling and storytelling
+Data cleaning, modelling and visualisation of salary data, documented for a working team.
 
----
-
-## Forecast Engine
-
-🚀 Coming Soon
-
-Enterprise forecasting framework capable of evaluating multiple predictive models automatically using time-series cross validation.
-
----
-
-## Pricing Intelligence
-
-🚀 Coming Soon
-
-Decision-support system for pricing optimization and profitability analysis.
-
----
-
-## Enterprise ETL Framework
-
-🚀 Coming Soon
-
-Reusable ETL architecture designed for SAP Business One and enterprise analytics.
-
----
-
-## Inventory Intelligence
-
-🚀 Coming Soon
-
-Inventory optimization, purchasing planning and working capital analytics.
+### 🎓 [MIAD coursework](https://github.com/camilo7100/MIAD_ML_NLP_2026) — Machine Learning & NLP
+Weekly notebooks from the MSc in Analytics at Universidad de los Andes.
 
 ---
 
