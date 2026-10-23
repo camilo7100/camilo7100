@@ -26,7 +26,7 @@
 
 # About Me
 
-I am a Mechanical Engineer and Physicist from Universidad de los Andes, currently pursuing an MSc in Data Analytics.
+I am a Mechanical Engineer and Physicist from Universidad de los Andes, currently completing an MSc in Analytical Data Intelligence (MIAD).
 
 My passion lies in transforming complex business challenges into intelligent, scalable and measurable analytical solutions.
 
@@ -39,15 +39,14 @@ My objective is not only to build predictive models, but to develop intelligent 
 
 # Professional Impact
 
+Results from leading analytics and planning at a Colombian company (~COP 90B in annual sales, ~200 employees):
+
 | Business Result | Impact |
 |-----------------|-------:|
-| Operational Profit | **+110%** |
-| Sales Growth | **+23%** |
-| Operating Expenses | **-8%** |
-| Inventory Reduction | **COP $4B+** |
-| Financial Debt Reduction | **COP $4B+** |
-| Gross Margin | **23% → 26%** |
-| Inventory Days | **100 → 66 Days** |
+| EBITDA margin | **2% → 3.5%** |
+| Logistics cost (% of sales) | **4.5% → 3.9%** |
+| Process automation | **Up to 10 positions, ~80% automated on average** |
+
 
 ---
 
@@ -74,61 +73,44 @@ My objective is not only to build predictive models, but to develop intelligent 
 
 # Tech Stack
 
-## Programming Languages
+## Programming & Data
 
-- Python
+- Python (pandas, NumPy, statsmodels, scikit-learn)
 - SQL
-- R
-- Java
-- VBA
+- Excel (advanced)
 
 ## Artificial Intelligence
 
-- GPT
-- Claude
-- Gemini
-- LangChain
-- LangGraph
-- OpenAI API
-- Anthropic API
-- Ollama
-- Hugging Face
+- LLM applications with OpenAI and Anthropic APIs
+- Agent orchestration with LangGraph, tracing with LangSmith
+- Prompt design and evaluation
+- AI-assisted development (Claude Code, Codex)
 
-## Machine Learning
+## Machine Learning & Statistics
 
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- XGBoost
-- LightGBM
-- CatBoost
-- Prophet
-- Statsmodels
+- Time-series forecasting (Prophet, ARIMA)
+- Supervised learning (regularization, trees, Random Forest, XGBoost, neural networks)
+- Unsupervised learning (PCA, clustering, recommender systems)
+- GLM, regression diagnostics, logistic regression
 
-## Data Engineering
+## Data Engineering & MLOps
 
-- ETL / ELT
-- Data Warehouse
-- Data Lake
-- SQL Server
-- PostgreSQL
-- FastAPI
+- ETL and dimensional modelling (Kimball)
+- FastAPI, Docker, CI/CD, pytest
+- Git, DVC, DataOps
+- SAP Business One (integration and reporting)
 
 ## Business Intelligence
 
-- Power BI
-- DAX
-- Power Query
-- Looker Studio
+- Power BI (DAX, data modelling, executive dashboards)
+- Dash / Plotly, data storytelling
 
-## Optimization
+## Decision Science
 
-- OR-Tools
-- PuLP
-- Monte Carlo Simulation
-- scipy.optimize
-- Linear Programming
-- Integer Programming
+- Linear, integer and multi-objective optimization
+- Discrete-event simulation and Monte Carlo
+- Decision analysis (AHP, decision trees, financial evaluation)
+
 
 ---
 
@@ -182,8 +164,6 @@ GPA: **4.2 / 5.0**
 🎓 **Physics**
 
 Universidad de los Andes
-
-GPA: **4.2 / 5.0**
 
 ---
 
